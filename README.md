@@ -6,7 +6,7 @@ React v16.7 のスパイク用環境
      - @storybook/addon-actions
      - @storybook/addon-links
      - @storybook/addon-viewport
-     - [storybook-readmeのオレオレ版](https://github.com/tanalab2/storybook-readme/releases/download/v4.0.2-beta/storybook-readme-v4.0.2.tgz)
+     - [storybook-readmeのオレオレ版](https://github.com/tanalab2/storybook-readme)
    - loaders of webpack
      - [includes-loaderのオレオレ版](https://github.com/tanalab2/includes-loader) (READEME.mdなどにソースファイルなどをインクルード可能にするために使用)
      - import-glob-loader
@@ -27,4 +27,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
-
